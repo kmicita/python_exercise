@@ -32,4 +32,4 @@ print("valor del promedio acomulado es: ",promedio,"\ningreso total:$",gan)
 print("el careeras realizadas ",cont)
 print(".I.")
 
-# Juan test
+# Juan develop
