@@ -1,3 +1,4 @@
+var=0
 val_carr=0
 cont=0
 gan=0
